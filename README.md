@@ -13,7 +13,7 @@ offering a fresh visual experience every time.
 Pure HTML & CSS: The gallery is implemented without any JavaScript libraries, 
 relying solely on modern HTML and CSS techniques for a lightweight and fast performance.
 
-How It Works
+How It Works:
 
 The gallery uses media queries and flexible grid layouts to ensure responsiveness.
 
